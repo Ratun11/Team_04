@@ -1,1 +1,1 @@
-# mnist_basic_deep_learning
+#CS 637- Assignment 2
